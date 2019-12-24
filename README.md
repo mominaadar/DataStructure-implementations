@@ -1,1 +1,1 @@
-It contains and will contain all my Data Structure assignments and lab tasks.
+It contains all my Data Structure assignments, lab tasks and practice tasks.
